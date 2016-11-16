@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/limingtech-front-end/di-example/issues"
   },
-  "homepage": "https://github.com/limingtech-front-end/di-example#readme"
+  "homepage": "https://github.com/limingtech-front-end/di-example#readme",
+  "dependencies": {
+    "co-example": "git+https://github.com/limingtech-front-end/co-example.git"
+  }
 }
