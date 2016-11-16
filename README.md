@@ -13,8 +13,9 @@
 
 ###API###
 ####methods####
-`bind()`
+`bind(func)`
 
+@func `Function`
 @return `undefined`
 
 ##其他##
